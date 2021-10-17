@@ -26,12 +26,14 @@
 Στον κεντρικό σταθμό του «Αυτόματου Σχολικού Βοηθού» (Raspberry Pi 4)
 (με τροφορότηση από τον τοπικό βοηθητικό σταθμό τύπου Γ ESP32-CAM)](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-A-Rpi4-CODE/code_social_distance/3-install-execute-Social-Distancing-Detector-KENTRIKOS.md)
 
-* [3-1 Εκτέλεση του το script reqs.sh για εγκατάταση προαπαιτουμένων](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-A-Rpi4-CODE/code_social_distance/reqs.sh)
+* [3-1 Εκτέλεση του  script reqs.sh για εγκατάταση προαπαιτουμένων](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-A-Rpi4-CODE/code_social_distance/reqs.sh)
 * [3-2 Εκτέλεση του προγράμματος ανίχνευσης](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-A-Rpi4-CODE/code_social_distance/detector.py)
 
 [4-Εκτέλεση Κώδικα σε NODERED - Διαδικασία Εισαγωγής στο Raspberry Pi 4
 (Κεντρικός server του «Αυτόματου Σχολικού Βοηθού» του Σχολείου)
 ](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-A-Rpi4-CODE/code-NodeRed/4-programs-in-Nodered-AISchoolAssistant.md)
+* [4-1 Εκτέλεση συνάρτησης σε javascript για φιλτράρισμα μηνυμάτων](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-A-Rpi4-CODE/code-NodeRed/onmessage.js)
+* [4-2 Εισαγωγή και Εκτέλεση προγράμματων σε NODERED (και Webui  για παραμέτρους)](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-A-Rpi4-CODE/code-NodeRed/flows.json)
 
 [5-Εγκατάσταση και Διαμόρφωση του λογισμικού στο Raspberry Pi 0
 (Τοπικός σταθμός τάξης (Εργ.Πληροφορικής) του «Αυτόματου Σχολικού Βοηθού» του Σχολείου)](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/2-Node-Type-B-Rpi0-CONFIG/5-Installing-configuring-slave-Rpi0-pythonMQTT.md)
@@ -39,9 +41,9 @@
 [6-Εκτέλεση Κώδικα στο Raspberry Pi 0
 (Τοπικός σταθμός τάξης (Εργ.Πληροφορικής) του «Αυτόματου Σχολικού Βοηθού» του Σχολείου)](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/2-Node-Type-B-Rpi0-CODE/6-Installing-Execute-pythonMQTT-and-GUI-actions.md)
 
-* [4-1 Εκτέλεση του το script reqs.sh για εγκατάταση προαπαιτουμένων](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/2-Node-Type-B-Rpi0-CODE/EpalSlaveRpi/controller/requirements.txt)
-* [4-2 Εκτέλεση του βασικού προγράμματος MQTT client](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/2-Node-Type-B-Rpi0-CODE/EpalSlaveRpi/controller/mqtt_client.py)
-
+* [6-1 Εκτέλεση του το script reqs.sh για εγκατάταση προαπαιτουμένων](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/2-Node-Type-B-Rpi0-CODE/EpalSlaveRpi/controller/requirements.txt)
+* [6-2 Εκτέλεση του βασικού προγράμματος MQTT client](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/2-Node-Type-B-Rpi0-CODE/EpalSlaveRpi/controller/mqtt_client.py)
+* [6-3 Εκτέλεση του βοηθητικών προγραμμάτων client](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/2-Node-Type-B-Rpi0-CODE/EpalSlaveRpi/controller/helpers)
 [7-Εγκατάσταση και Διαμόρφωση λογισμικού στον Τοπικός Controller Τάξης(Camera Module ESP32-CAM)](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/3-Node-Type-C-ESP32-CAM-CONFIG/7-installing-config-on-Node-Type-C-ESP32-CAM.md)
 
 [8-Εκτέλεση Κώδικα στον Τοπικός Controller Τάξης (Camera Module ESP32-CAM)]( https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/3-Node-Type-C-ESP32-CAM-CODE/8-EXECUTE-on-Node-Type-C-ESP32-CAM.md)
