@@ -86,6 +86,7 @@ mosquitto_pub -h localhost -t "mqtt/pimylifeup" -m "EPAL KALHMERA"
 EPAL KALHMERA
 ```
 Για επιπλέον οδηγίες και ανάλυση , μπορούμε να επισκευθούμε τους παρακάτω ιστότοπους, τους οποίους χρησιμοποήσαμε και εμείς για την εγκατάσταση και για την δημιουργία του οδηγού αυτού
+
 https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/
 
 https://pimylifeup.com/raspberry-pi-mosquitto-mqtt-server/
