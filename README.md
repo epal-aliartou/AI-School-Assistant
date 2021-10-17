@@ -44,6 +44,7 @@
 * [6-1 Εκτέλεση του το script reqs.sh για εγκατάταση προαπαιτουμένων](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/2-Node-Type-B-Rpi0-CODE/EpalSlaveRpi/controller/requirements.txt)
 * [6-2 Εκτέλεση του βασικού προγράμματος MQTT client](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/2-Node-Type-B-Rpi0-CODE/EpalSlaveRpi/controller/mqtt_client.py)
 * [6-3 Εκτέλεση του βοηθητικών προγραμμάτων client](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/2-Node-Type-B-Rpi0-CODE/EpalSlaveRpi/controller/helpers)
+
 [7-Εγκατάσταση και Διαμόρφωση λογισμικού στον Τοπικός Controller Τάξης(Camera Module ESP32-CAM)](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/3-Node-Type-C-ESP32-CAM-CONFIG/7-installing-config-on-Node-Type-C-ESP32-CAM.md)
 
 [8-Εκτέλεση Κώδικα στον Τοπικός Controller Τάξης (Camera Module ESP32-CAM)]( https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/3-Node-Type-C-ESP32-CAM-CODE/8-EXECUTE-on-Node-Type-C-ESP32-CAM.md)
