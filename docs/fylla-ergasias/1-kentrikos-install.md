@@ -1,3 +1,7 @@
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
 <!-- title only -->
 <h1 align="center"> ΣΧΟΛΕΙΟ :  ΕΣΠΕΡΙΝΟ ΕΠΑΛ ΑΛΙΑΡΤΟΥ </h1>
 
@@ -10,7 +14,7 @@
 
 ->![MQTT](https://mosquitto.org/images/mosquitto-text-side-28.png)<-
 
-![MQTT](https://mosquitto.org/images/mosquitto-text-side-28.png) 
+![MQTT](https://mosquitto.org/images/mosquitto-text-side-28.png#center) 
      <center><img src="https://mosquitto.org/images/mosquitto-text-side-28.png"></center>
       <center>This is an image</center>
 
