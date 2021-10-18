@@ -1,11 +1,3 @@
-
-
-<p align="center">
-
-  <img src="https://mosquitto.org/images/mosquitto-text-side-28.png">
-  This is an image
-</p>
-
 <!-- title only -->
 <h1 align="center"> ΣΧΟΛΕΙΟ :  ΕΣΠΕΡΙΝΟ ΕΠΑΛ ΑΛΙΑΡΤΟΥ </h1>
 
@@ -16,11 +8,12 @@
 <span align="center"> <h1> :star:   ΘΕΜΑ: Εγκατάσταση   MOSQUITTO σε Raspberry pi</h1> </span> 
 
 
-->![MQTT](https://mosquitto.org/images/mosquitto-text-side-28.png)<-
 
-![MQTT](https://mosquitto.org/images/mosquitto-text-side-28.png#center) 
-     <center><img src="https://mosquitto.org/images/mosquitto-text-side-28.png"></center>
-      <center>This is an image</center>
+<p align="center">
+
+  <img src="https://mosquitto.org/images/mosquitto-text-side-28.png">
+  This is an image
+</p>
 
 
 ### ΑΣΚΗΣΕΙΣ
