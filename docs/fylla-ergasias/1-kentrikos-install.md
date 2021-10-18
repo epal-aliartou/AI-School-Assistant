@@ -3,17 +3,9 @@
 
 <!-- title with div -->
 <div align="center"> <h1 align="center"> ΦΥΛΛΟ ΕΡΓΑΣΙΑΣ</h1> </div>
+<div align="center"> <h1> :star:   ΘΕΜΑ: Εγκατάσταση   MOSQUITTO σε Raspberry pi</h1>  </div>
 
-<!-- title with span (you can render emojis or markdown inside it) -->
-<span align="center"> <h1> :star:   ΘΕΜΑ: Εγκατάσταση   MOSQUITTO σε Raspberry pi</h1> </span> 
-
-
-
-<p align="center">
-
-  <img src="https://mosquitto.org/images/mosquitto-text-side-28.png">
-  This is an image
-</p>
+<p align="center"><img src="https://mosquitto.org/images/mosquitto-text-side-28.png"></p>
 
 
 ### ΑΣΚΗΣΕΙΣ
