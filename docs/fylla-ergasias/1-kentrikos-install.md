@@ -7,7 +7,8 @@
 <!-- title with span (you can render emojis or markdown inside it) -->
 <span align="center"> <h1> :star:   ΘΕΜΑ: Εγκατάσταση   MOSQUITTO σε Raspberry pi</h1> </span> 
 
-->![MQTT](https://mosquitto.org/images/mosquitto-text-side-28.png) <-
+
+->![MQTT](https://mosquitto.org/images/mosquitto-text-side-28.png)<-
 
 ![MQTT](https://mosquitto.org/images/mosquitto-text-side-28.png) 
 
