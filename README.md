@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=TXi_Rk6sHGg&list=PL3BpHR7KN3z14OLyJUfApZnECfTMZN
 
 Σειρά βίντεο (playlist) σχετικά με την πειραματική διαδικασία σχετικα με τον αλγόριβμο αναγνώρισης ατόμου
 
-(ΕΠΑΛ ΑΛΙΑΡΤΟΥ Πειράματα εφαρμογής αλγορίθμο)
+(ΕΠΑΛ ΑΛΙΑΡΤΟΥ Πειράματα εφαρμογής αλγορίθμου)
 
 https://www.youtube.com/watch?v=hZ1zi9_eIq8&list=PL3BpHR7KN3z1dGxGGSAkyuGgAHgk08K8T
 
