@@ -72,12 +72,12 @@ https://www.youtube.com/watch?v=hZ1zi9_eIq8&list=PL3BpHR7KN3z1dGxGGSAkyuGgAHgk08
 [10-Εκτέλεση Κώδικα στον Τοπικός Controller Τάξης (WEMOS D1 MINI ESP8266)](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/4-Node-Type-D-WEMOS-D1-MINI-ESP8266-CODE/10-EXECUTE-on-Node-Type-D-WEMOS-D1-MINI-ESP8266.md)
 
 ---
+# Σχέδιο ανοιχτού εκπαιδευτικού πόρου σύμφωνα με το OER CANVAS
+
 
 ![Εποπτικό Διαγραμμα του Συστήματος](images/0-OER-CANVAS-ai-shool-assistant.jpg)
 
----
 
-Σχέδιο ανοιχτού εκπαιδευτικού πόρου σύμφωνα με το OER CANVAS
 
 ---
 # ΦΥΛΛΑ ΕΡΓΑΣΙΑΣ
@@ -121,6 +121,8 @@ https://tasmota.github.io/docs/IR-Remote/
 
 
 ---
+# Εποπτικό Διαγραμμα του Συστήματος
+
 
 ![Εποπτικό Διαγραμμα του Συστήματος](images/ELLAK-1-DEVICES.jpg)
 
