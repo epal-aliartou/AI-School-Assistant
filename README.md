@@ -78,6 +78,15 @@ https://www.youtube.com/watch?v=hZ1zi9_eIq8&list=PL3BpHR7KN3z1dGxGGSAkyuGgAHgk08
 Σχέδιο ανοιχτού εκπαιδευτικού πόρου σύμφωνα με το OER CANVAS
 
 ---
+ΦΥΛΛΑ ΕΡΓΑΣΙΑΣ
+
+[1-Εγκατάσταση MOSQUITTO σε Raspberry pi](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/docs/fylla-ergasias/1-kentrikos-install_MOSQUITTO.md)
+
+[2-Εγκατάσταση NODERED σε Raspberry pi](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/docs/fylla-ergasias/1-kentrikos-install_NODERED.md)
+
+
+---
+
 Το παρόν έργο έχει στηριχθεί κατα πολύ, στις παρακάτω ιστοσελίδες ( οδηγίες και κώδικας),
 τους δημιουργούς των οποίων θα θέλαμε , Θερμά, να ευχαριστήσουμε
 που μοιράστηκαν μαζί μας το έργο τους  και για τον πολύτιμο χρόνο τους!
