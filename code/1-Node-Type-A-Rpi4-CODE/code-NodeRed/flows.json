@@ -1,0 +1,510 @@
+[
+    {
+        "id": "238220398ef6a6fc",
+        "type": "tab",
+        "label": "MQTT  Εντολές",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "150654ae.997f6b",
+        "type": "tab",
+        "label": "Projector Timer",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "4138f4a1efc27b7f",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "localhost",
+        "port": "1883",
+        "clientid": "nodered-EPAL",
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "sessionExpiry": ""
+    },
+    {
+        "id": "74f28398c2c01a05",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1bbfff",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0094ce",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "dd95ed13.d4a43",
+        "type": "ui_group",
+        "name": "Χρονοπρογραμματισμός Βιντεοπροβολέα",
+        "tab": "cc5302e2.c463d8",
+        "order": 1,
+        "disp": true,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "cc5302e2.c463d8",
+        "type": "ui_tab",
+        "name": "Αίθουσα Πληροφορικής",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "bd949c6e9411f029",
+        "type": "mqtt out",
+        "z": "238220398ef6a6fc",
+        "name": "",
+        "topic": "AITHOUSES/AITHOYSA1/ENTOLES/projector",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "4138f4a1efc27b7f",
+        "x": 880,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "044b8f29e6e25fdb",
+        "type": "inject",
+        "z": "238220398ef6a6fc",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "3",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "playALL",
+        "payloadType": "str",
+        "x": 220,
+        "y": 140,
+        "wires": [
+            [
+                "bd949c6e9411f029",
+                "fae0ba8641ecb9d6"
+            ]
+        ]
+    },
+    {
+        "id": "fae0ba8641ecb9d6",
+        "type": "debug",
+        "z": "238220398ef6a6fc",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 760,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "b72af953.830fc8",
+        "type": "ui_text_input",
+        "z": "150654ae.997f6b",
+        "name": "Off Time",
+        "label": "Ώρα Κλεισίματος",
+        "tooltip": "",
+        "group": "dd95ed13.d4a43",
+        "order": 3,
+        "width": "3",
+        "height": "1",
+        "passthru": true,
+        "mode": "text",
+        "delay": 300,
+        "topic": "off_time",
+        "topicType": "str",
+        "x": 140,
+        "y": 400,
+        "wires": [
+            [
+                "1acd3211.3a85d6"
+            ]
+        ]
+    },
+    {
+        "id": "76d9b8a2.19dc1",
+        "type": "eztimer",
+        "z": "150654ae.997f6b",
+        "name": "",
+        "debug": false,
+        "autoname": "17:45:00 - 17:46:00",
+        "tag": "eztimer",
+        "topic": "",
+        "suspended": false,
+        "sendEventsOnSuspend": false,
+        "latLongSource": "manual",
+        "lat": "",
+        "lon": "",
+        "timerType": "1",
+        "startupMessage": false,
+        "ontype": "2",
+        "ontimesun": "dawn",
+        "ontimetod": "17:45:00",
+        "onpropertytype": "msg",
+        "onproperty": "payload",
+        "onvaluetype": "num",
+        "onvalue": 1,
+        "onoffset": "0",
+        "onrandomoffset": 0,
+        "onsuppressrepeats": false,
+        "offtype": "2",
+        "offtimesun": "dusk",
+        "offtimetod": "17:46:00",
+        "offduration": "00:01:00",
+        "offpropertytype": "msg",
+        "offproperty": "payload",
+        "offvaluetype": "num",
+        "offvalue": 0,
+        "offoffset": 0,
+        "offrandomoffset": 0,
+        "offsuppressrepeats": false,
+        "resend": false,
+        "resendInterval": "1m",
+        "mon": true,
+        "tue": true,
+        "wed": true,
+        "thu": true,
+        "fri": true,
+        "sat": true,
+        "sun": true,
+        "x": 620,
+        "y": 120,
+        "wires": [
+            [
+                "69a20c61.bf7d94",
+                "ea692fb9961d6d93"
+            ]
+        ]
+    },
+    {
+        "id": "69a20c61.bf7d94",
+        "type": "ui_text",
+        "z": "150654ae.997f6b",
+        "group": "dd95ed13.d4a43",
+        "order": 4,
+        "width": "5",
+        "height": "1",
+        "name": "Switch State",
+        "label": "Κατάσταση Βιντεοπροβολέα",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "x": 830,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "63a606cf.a9a52",
+        "type": "inject",
+        "z": "150654ae.997f6b",
+        "name": "",
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "on",
+        "payloadType": "str",
+        "x": 90,
+        "y": 80,
+        "wires": [
+            [
+                "76d9b8a2.19dc1"
+            ]
+        ]
+    },
+    {
+        "id": "4a16a734.d21bd",
+        "type": "inject",
+        "z": "150654ae.997f6b",
+        "name": "",
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "off",
+        "payloadType": "str",
+        "x": 90,
+        "y": 160,
+        "wires": [
+            [
+                "76d9b8a2.19dc1"
+            ]
+        ]
+    },
+    {
+        "id": "8f7ace42.246878",
+        "type": "ui_text_input",
+        "z": "150654ae.997f6b",
+        "name": "On Time",
+        "label": "Ώρα Ανοίγματος",
+        "tooltip": "",
+        "group": "dd95ed13.d4a43",
+        "order": 2,
+        "width": "3",
+        "height": "1",
+        "passthru": true,
+        "mode": "text",
+        "delay": 300,
+        "topic": "on_time",
+        "topicType": "str",
+        "x": 140,
+        "y": 340,
+        "wires": [
+            [
+                "1acd3211.3a85d6"
+            ]
+        ]
+    },
+    {
+        "id": "a96b9159.babc78",
+        "type": "ui_button",
+        "z": "150654ae.997f6b",
+        "name": "Submit",
+        "group": "dd95ed13.d4a43",
+        "order": 5,
+        "width": "2",
+        "height": "1",
+        "passthru": false,
+        "label": "ΑΠΟΣΤΟΛΗ",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "icon": "",
+        "payload": "1",
+        "payloadType": "str",
+        "topic": "submit",
+        "topicType": "str",
+        "x": 130,
+        "y": 460,
+        "wires": [
+            [
+                "1acd3211.3a85d6"
+            ]
+        ]
+    },
+    {
+        "id": "1acd3211.3a85d6",
+        "type": "function",
+        "z": "150654ae.997f6b",
+        "name": "Main",
+        "func": "var payload=msg.payload;\nvar topic=msg.topic;\n\nfunction checktime(time)\n{\n    var error_flag=false;\n   var a=time.split(\":\"); \n   node.log(a)\n   if(a.length <2)\n     error_flag=true;\n   if(parseInt(a[0])>23)\n     error_flag=true;\n   if(parseInt(a[1])>=60)\n     error_flag=true;\n    if(parseInt(a[2])>=60)\n     error_flag=true;\n\nreturn error_flag;  \n}\nif (topic==\"on_time\")\n{\n  flow.set(\"on_time\",msg.payload);\n  \n    \n}\nif (topic==\"off_time\")\n \n{\n     flow.set(\"off_time\",msg.payload);\n\n}\nif (topic==\"submit\")\n \n{\n  var on_time= flow.get(\"on_time\");\n  var off_time= flow.get(\"off_time\");\n  var error_flag=false;\n  if(checktime(on_time)) //ok\n    error_flag=true;\n  if(checktime(off_time)) //ok\n    error_flag=true;\n  \n\n\n  if(!error_flag)\n  {\n      newpayload={};\n      newpayload.ontime=on_time;\n      newpayload.offtime=off_time;\n      msg.payload=newpayload;\n;\n   return[msg,null];\n}\nelse\n{\n    var msg1={};\n    msg1.payload=\"error time not set\";\n   return [null,msg1]; \n}\n}",
+        "outputs": 2,
+        "noerr": 0,
+        "x": 430,
+        "y": 380,
+        "wires": [
+            [
+                "76d9b8a2.19dc1"
+            ],
+            [
+                "bb843970.97cdc",
+                "69a20c61.bf7d94"
+            ]
+        ]
+    },
+    {
+        "id": "bb843970.97cdc",
+        "type": "debug",
+        "z": "150654ae.997f6b",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 830,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "10202444.f2aeb4",
+        "type": "inject",
+        "z": "150654ae.997f6b",
+        "name": "",
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 580,
+        "wires": [
+            [
+                "d1051f12.e16d08"
+            ]
+        ]
+    },
+    {
+        "id": "d1051f12.e16d08",
+        "type": "function",
+        "z": "150654ae.997f6b",
+        "name": "Format Time",
+        "func": "\nvar d =new Date(msg.payload);\nmsg.payload=d.getHours()+\":\"+d.getMinutes()+\":\"+d.getSeconds();\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 350,
+        "y": 580,
+        "wires": [
+            [
+                "d8659603.37af6"
+            ]
+        ]
+    },
+    {
+        "id": "d8659603.37af6",
+        "type": "ui_text",
+        "z": "150654ae.997f6b",
+        "group": "dd95ed13.d4a43",
+        "order": 1,
+        "width": "3",
+        "height": "1",
+        "name": "Current Time",
+        "label": "Η ώρα τώρα είναι:",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "x": 530,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "ea692fb9961d6d93",
+        "type": "mqtt out",
+        "z": "150654ae.997f6b",
+        "name": "",
+        "topic": "AITHOUSES/AITHOYSA1/ENTOLES/projector",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "4138f4a1efc27b7f",
+        "x": 940,
+        "y": 120,
+        "wires": []
+    }
+]
