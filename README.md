@@ -3,7 +3,7 @@
 **Σχολείο:** Εσπερινό ΕΠΑΛ Αλιάρτου
 
 **Τίτλος έργου:** «Έξυπνος ψηφιακός σχολικός βοηθός με έμφαση στην υποβοήθηση αντιμετώπισης της πανδημίας του COVID-19»
-![Εποπτικό Διαγραμμα του Συστήματος](images/ELLAK-1-DEVICES.jpg)
+
 
 ---
 
@@ -11,6 +11,7 @@
 
 
 ---
+
 
 [Αρχική ιστοσελίδα του έργου στο openedtech.ellak.gr](https://openedtech.ellak.gr/robotics2021/exipnos-psifiakos-scholikos-voithos-me-emfasi-stin-ipovoithisi-antimetopisis-tis-pandimias/)
 
@@ -42,6 +43,12 @@
 
 []()
 
+
+
+
+---
+
+![Εποπτικό Διαγραμμα του Συστήματος](images/ELLAK-1-DEVICES.jpg)
 
 ---
 
