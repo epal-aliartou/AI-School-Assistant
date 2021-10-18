@@ -24,7 +24,7 @@
 Πριν εγκαταστήσουμε το OpenCV και άλλες εξαρτήσεις, το Raspberry Pi πρέπει να ενημερωθεί πλήρως. Χρησιμοποιούμε τις παρακάτω εντολές για να ενημερώσουμε το Raspberry Pi στην πιο πρόσφατη έκδοσή του:
 
 ```bash
-sudo apt-get install
+sudo apt-get install imutils
 ```
 Στη συνέχεια, χρησιμοποιούμε τις ακόλουθες εντολές για να εγκαταστήσουμε τις απαιτούμενες εξαρτήσεις για την εγκατάσταση του OpenCV στο Raspberry Pi.
 ```bash
@@ -51,7 +51,7 @@ pip3 install opencv-contrib-python == 4.1.0.25
 
 ****
 ```bash
-sudo apt-get install
+sudo apt-get install imutils
 ```
 Προτού τρέξουμε τον κώδικα , πρέπει να κατεβάσουμε τα "βάρη του YoloV3" , δηλαδή το αρχείο yolov3.weights, και να το τοποθετήσουμε στο φάκελο yolov3 .Μπορούμε να κατεβάσουμε από τον  κατάλογο [YoloV3 από εδώ](https://pjreddie.com/media/files/yolov3.weights) , καθώς και δοκιμαστικά βίντεο από [Pexels](https://www.pexels.com/search/videos/pedestrians/) και να αντιγράψετε τον κωδικό Python που δίνεται παρακάτω και να τους τοποθετήσετε στον ίδιο κατάλογο όπως φαίνεται παραπάνω.
 
