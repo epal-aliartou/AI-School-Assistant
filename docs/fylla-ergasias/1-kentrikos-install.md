@@ -9,12 +9,11 @@
 
 
 
+![MQTT](https://mosquitto.org/images/mosquitto-text-side-28.png) 
 
- <div align="center"> ![MQTT](https://mosquitto.org/images/mosquitto-text-side-28.png) </div>
- 
+
 ### ΑΣΚΗΣΕΙΣ
  
-
 
   1. Χρησιμοποιώντας το Advanced IP scanner, βρείτε την ip διεύθυνση του Raspberry, στον οποίο θα εγκαταστήσουμε το software του κεντρικού σταθμού του "αυτόματου σχολικού βοηθού"
 
