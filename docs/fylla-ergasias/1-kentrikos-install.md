@@ -1,4 +1,14 @@
-img[src*='#center'] { 
+
+img[src*='Hello there!
+
+<p align="center">
+
+  <img src="https://mosquitto.org/images/mosquitto-text-side-28.png">
+  This is an image
+
+</p>
+
+Hi!#center'] { 
     display: block;
     margin: auto;
 }
