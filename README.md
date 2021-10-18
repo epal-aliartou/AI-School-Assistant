@@ -12,6 +12,16 @@
 
 ---
 
+Σειρά βίντεο (playlist) σχετικά με την υλοποίηση του έργου και λεπτομέρειες για εγκατάσταση και χρήση
+(Περιγραφή Έργου Σχολικού Βοηθού)
+
+https://www.youtube.com/watch?v=TXi_Rk6sHGg&list=PL3BpHR7KN3z14OLyJUfApZnECfTMZNcs8
+
+Σειρά βίντεο (playlist) σχετικά με την πειραματική διαδικασία σχετικα με τον αλγόριβμο αναγνώρισης ατόμου
+(ΕΠΑΛ ΑΛΙΑΡΤΟΥ Πειράματα εφαρμογής αλγορίθμο)
+
+https://www.youtube.com/watch?v=hZ1zi9_eIq8&list=PL3BpHR7KN3z1dGxGGSAkyuGgAHgk08K8T
+
 
 [Αρχική ιστοσελίδα του έργου στο openedtech.ellak.gr](https://openedtech.ellak.gr/robotics2021/exipnos-psifiakos-scholikos-voithos-me-emfasi-stin-ipovoithisi-antimetopisis-tis-pandimias/)
 
