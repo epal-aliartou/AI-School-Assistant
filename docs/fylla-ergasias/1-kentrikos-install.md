@@ -11,6 +11,8 @@
 ->![MQTT](https://mosquitto.org/images/mosquitto-text-side-28.png)<-
 
 ![MQTT](https://mosquitto.org/images/mosquitto-text-side-28.png) 
+     <center><img src="https://mosquitto.org/images/mosquitto-text-side-28.png" ...></center>
+      <center>This is an image</center>
 
 
 ### ΑΣΚΗΣΕΙΣ
