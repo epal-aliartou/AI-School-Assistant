@@ -4,6 +4,51 @@
 
 **Τίτλος έργου:** «Έξυπνος ψηφιακός σχολικός βοηθός με έμφαση στην υποβοήθηση αντιμετώπισης της πανδημίας του COVID-19»
 ![Εποπτικό Διαγραμμα του Συστήματος](images/ELLAK-1-DEVICES.jpg)
+
+---
+
+># ΥΛΟΠΟΙΗΣΗ ΤΟΥ ΕΡΓΟΥ AI-School-Assistant_
+
+
+---
+
+[Αρχική ιστοσελίδα του έργου στο openedtech.ellak.gr](https://openedtech.ellak.gr/robotics2021/exipnos-psifiakos-scholikos-voithos-me-emfasi-stin-ipovoithisi-antimetopisis-tis-pandimias/)
+
+[1- Εγκατάσταση και Διαμόρφωση του Mosquitto στο Raspberry Pi 4
+(Κεντρικός server του «Αυτόματου Σχολικού Βοηθού» του Σχολείου)](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-A-Rpi4-CONFIG/1-Installing-Mosquitto-to-Raspberry-KENTRIKOS.md)
+
+[2-Εγκατάσταση και Διαμόρφωση του Node-RED στο Raspberry Pi 4
+(Κεντρικός server του «Αυτόματου Σχολικού Βοηθού» του Σχολείου)
+](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-A-Rpi4-CONFIG/2-Installing-Running-Node-RED-sto-Raspberry-KENTRIKOS.md)
+
+[3- ΕΚΤΕΛΕΣΗ ΤΟΥ ΚΩΔΙΚΑ ΑΝΙΧΝΕΥΣΗΣ-ΤΗΡΗΣΗΣ ΚΟΙΝΩΝΙΚΩΝ ΑΠΟΣΤΑΣΕΩΝ 
+Στον κεντρικό σταθμό του «Αυτόματου Σχολικού Βοηθού» (Raspberry Pi 4)
+(με τροφορότηση από τον τοπικό βοηθητικό σταθμό τύπου Γ ESP32-CAM)](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-A-Rpi4-CODE/code_social_distance/3-install-execute-Social-Distancing-Detector-KENTRIKOS.md)
+
+* [3-1 Εκτέλεση του το script reqs.sh για εγκατάταση προαπαιτουμένων](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-A-Rpi4-CODE/code_social_distance/reqs.sh)
+* [3-2 Εκτέλεση του προγράμματος ανίχνευσης](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-A-Rpi4-CODE/code_social_distance/detector.py)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+
+---
+
+># _ΑΡΧΙΚΗ ΠΡΟΤΑΣΗ ΤΟΥ ΕΡΓΟΥ AI-School-Assistant_
+
+---
+
 Παρακάτω περιγράφεται η πρόταση έργου για την συμμετοχή του Εσπερινού ΕΠΑΛ Αλιάρτου στον «3ο Πανελλήνιο Διαγωνισμό Ανοιχτών Τεχνολογιών στην Εκπαίδευση»
 
 # Εισαγωγή - Περιγραφή
