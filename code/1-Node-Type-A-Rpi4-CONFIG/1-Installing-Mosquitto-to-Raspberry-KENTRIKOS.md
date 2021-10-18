@@ -1,6 +1,8 @@
 ## Εγκατάσταση Mosquitto στο Raspberry Pi 4 
 ## (Κεντρικός server του «Αυτόματου Σχολικού Βοηθού» του Σχολείου)
-![MQTT](https://mosquitto.org/images/mosquitto-text-side-28.png)
+
+     ![MQTT](https://mosquitto.org/images/mosquitto-text-side-28.png)
+
 Σε αυτήν την ενότητα, θα  δείξουμε πώς να εγκαταστήσουμε τον μεσίτη (broker) Mosquitto στο Raspberry Pi.
 
 Πριν προχωρήσουμε, καλό είναι να ρυθμίσουμε το **Raspberry Pi με μια στατική διεύθυνση IP** .
