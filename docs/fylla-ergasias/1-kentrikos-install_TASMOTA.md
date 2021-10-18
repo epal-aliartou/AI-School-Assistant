@@ -21,11 +21,11 @@ https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/3-Node-Type-
 
 και παρακολουθώντας το παρακάτω βίντεο
 
-<!-- blank line -->
+
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=TXi_Rk6sHGg&list=PL3BpHR7KN3z14OLyJUfApZnECfTMZNcs8&index=1" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://youtu.be/TXi_Rk6sHGg" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-<!-- blank line -->
+
 
 ```
 Κυκλώστε                ΕΠΙΤΥΧΙΑ                        ΑΠΟΤΥΧΙΑ 
