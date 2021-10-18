@@ -6,7 +6,7 @@
 
 <div align="center"> <h1> :star:   ΘΕΜΑ: Εγκατάσταση   MOSQUITTO σε Raspberry pi</h1>  </div>
 
-<p align="center"><img src="https://cdn.xingosoftware.com/elektor/images/fetch/dpr_1/https%3A%2F%2Fwww.elektormagazine.com%2Fassets%2Fupload%2Fimages%2F42%2F20200612144414_Node-Red-official-logo.png"></p>
+<p align="center"><img src="https://nodered.org/about/resources/media/node-red-icon-2.png"></p>
 
 ## ΗΜΕΡΟΜΗΝΙΑ :
 
