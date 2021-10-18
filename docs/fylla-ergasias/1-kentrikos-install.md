@@ -19,10 +19,14 @@
 ```
 
 
-2. Ακολουθώντας τις οδηγίες που φαίνονται στον παρακάτω σύνδεσμο, εγκαταστήστε MQTT broker MOSQUITTO
+2. Ακολουθώντας τις οδηγίες που φαίνονται στον παρακάτω σύνδεσμο, εγκαταστήστε MQTT broker MOSQUITTO 
+
+https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-A-Rpi4-CONFIG/1-Installing-Mosquitto-to-Raspberry-KENTRIKOS.md
 
 ```
-Συμπληρώστε IP =
+Συμπληρώστε  
+
+
 ```
 
 
