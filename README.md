@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=hZ1zi9_eIq8&list=PL3BpHR7KN3z1dGxGGSAkyuGgAHgk08
 
 
 ---
-# Αρχική ιστοσελίδα του έργου στο openedtech.ellak.gr
+# Ιστοσελίδα του έργου
 
 
 [Αρχική ιστοσελίδα του έργου στο openedtech.ellak.gr](https://openedtech.ellak.gr/robotics2021/exipnos-psifiakos-scholikos-voithos-me-emfasi-stin-ipovoithisi-antimetopisis-tis-pandimias/)
