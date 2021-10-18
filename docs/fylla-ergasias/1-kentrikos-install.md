@@ -1,4 +1,12 @@
- 
+<!-- title only -->
+<h1 align="center"> Title </h1>
+
+<!-- title with div -->
+<div align="center"> <h1 align="center"> Title inside div! </h1> </div>
+
+<!-- title with span (you can render emojis or markdown inside it) -->
+<span align="center"> <h1> :star: My Career: </h1> </span> 
+
 <p style="text-align: center;">ΕΣΠΕΡΙΝΟ ΕΠΑΛ ΑΛΙΑΡΤΟΥ</p>
  
 ΦΥΛΛΟ ΕΡΓΑΣΙΑΣ
