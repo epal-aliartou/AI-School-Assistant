@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=hZ1zi9_eIq8&list=PL3BpHR7KN3z1dGxGGSAkyuGgAHgk08
 Σχέδιο ανοιχτού εκπαιδευτικού πόρου σύμφωνα με το OER CANVAS
 
 ---
-ΦΥΛΛΑ ΕΡΓΑΣΙΑΣ
+# ΦΥΛΛΑ ΕΡΓΑΣΙΑΣ
 
 [1-Εγκατάσταση MOSQUITTO σε Raspberry pi](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/docs/fylla-ergasias/1-kentrikos-install_MOSQUITTO.md)
 
