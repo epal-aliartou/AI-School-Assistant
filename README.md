@@ -23,7 +23,11 @@ https://www.youtube.com/watch?v=TXi_Rk6sHGg&list=PL3BpHR7KN3z14OLyJUfApZnECfTMZN
 https://www.youtube.com/watch?v=hZ1zi9_eIq8&list=PL3BpHR7KN3z1dGxGGSAkyuGgAHgk08K8T
 
 
+---
+
 [Αρχική ιστοσελίδα του έργου στο openedtech.ellak.gr](https://openedtech.ellak.gr/robotics2021/exipnos-psifiakos-scholikos-voithos-me-emfasi-stin-ipovoithisi-antimetopisis-tis-pandimias/)
+
+---
 
 [1-Εγκατάσταση και Διαμόρφωση του Mosquitto στο Raspberry Pi 4
 (Κεντρικός server του «Αυτόματου Σχολικού Βοηθού» του Σχολείου)](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-A-Rpi4-CONFIG/1-Installing-Mosquitto-to-Raspberry-KENTRIKOS.md)
@@ -69,7 +73,7 @@ https://www.youtube.com/watch?v=hZ1zi9_eIq8&list=PL3BpHR7KN3z1dGxGGSAkyuGgAHgk08
 
 ---
 
-Σχέδιο ανοιχτού εκπαιδευτικού πόρου σύμφωνα με το OER
+Σχέδιο ανοιχτού εκπαιδευτικού πόρου σύμφωνα με το OER CANVAS
 
 ---
 
