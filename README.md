@@ -11,6 +11,7 @@
 
 
 ---
+# ΒΙΝΤΕΟ
 
 Σειρά βίντεο (playlist) σχετικά με την υλοποίηση του έργου και λεπτομέρειες για εγκατάσταση και χρήση
 
@@ -30,6 +31,7 @@ https://www.youtube.com/watch?v=hZ1zi9_eIq8&list=PL3BpHR7KN3z1dGxGGSAkyuGgAHgk08
 [Αρχική ιστοσελίδα του έργου στο openedtech.ellak.gr](https://openedtech.ellak.gr/robotics2021/exipnos-psifiakos-scholikos-voithos-me-emfasi-stin-ipovoithisi-antimetopisis-tis-pandimias/)
 
 ---
+# ΚΩΔΙΚΑΣ
 
 [1-Εγκατάσταση και Διαμόρφωση του Mosquitto στο Raspberry Pi 4
 (Κεντρικός server του «Αυτόματου Σχολικού Βοηθού» του Σχολείου)](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-A-Rpi4-CONFIG/1-Installing-Mosquitto-to-Raspberry-KENTRIKOS.md)
