@@ -65,10 +65,7 @@ https://www.youtube.com/watch?v=hZ1zi9_eIq8&list=PL3BpHR7KN3z1dGxGGSAkyuGgAHgk08
 
 ---
 
-![
----
-
-Εποπτικό Διαγραμμα του Συστήματος](images/0-OER-CANVAS-ai-shool-assistant.jpg)
+![Εποπτικό Διαγραμμα του Συστήματος](images/0-OER-CANVAS-ai-shool-assistant.jpg)
 
 ---
 
