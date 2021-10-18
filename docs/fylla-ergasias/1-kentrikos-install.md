@@ -1,15 +1,14 @@
 <!-- title only -->
-<h1 align="center"> Title </h1>
+<h1 align="center"> ΣΧΟΛΕΙΟ :  ΕΣΠΕΡΙΝΟ ΕΠΑΛ ΑΛΙΑΡΤΟΥ </h1>
 
 <!-- title with div -->
-<div align="center"> <h1 align="center"> Title inside div! </h1> </div>
+<div align="center"> <h1 align="center"> ΦΥΛΛΟ ΕΡΓΑΣΙΑΣ</h1> </div>
 
 <!-- title with span (you can render emojis or markdown inside it) -->
-<span align="center"> <h1> :star: My Career: </h1> </span> 
+<span align="center"> <h1> ΘΕΜΑ: Εγκατάσταση   MOSQUITTO σε Raspberry pi</h1> </span> 
 
-<p style="text-align: center;">ΕΣΠΕΡΙΝΟ ΕΠΑΛ ΑΛΙΑΡΤΟΥ</p>
+
  
-ΦΥΛΛΟ ΕΡΓΑΣΙΑΣ
  
 ΘΕΜΑ
  
