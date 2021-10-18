@@ -21,7 +21,7 @@ https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/3-Node-Type-
 
 και παρακολουθώντας το παρακάτω βίντεο
 
-[![Watch the video](/images/C:\Users\kathigitis\Desktop\1-firmware-Tasmota.png)](https://youtu.be/TXi_Rk6sHGg)
+[![Watch the video](/images/1-firmware-Tasmota.png)](https://youtu.be/TXi_Rk6sHGg)
 
 <figure class="video_container">
   <iframe src="https://youtu.be/TXi_Rk6sHGg" frameborder="0" allowfullscreen="true"> </iframe>
