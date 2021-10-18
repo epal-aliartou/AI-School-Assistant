@@ -76,6 +76,37 @@ https://www.youtube.com/watch?v=hZ1zi9_eIq8&list=PL3BpHR7KN3z1dGxGGSAkyuGgAHgk08
 Σχέδιο ανοιχτού εκπαιδευτικού πόρου σύμφωνα με το OER CANVAS
 
 ---
+Το παρόν έργο έχει στηριχθεί κατα πολύ, στις παρακάτω ιστοσελίδες, οδηγίες και κώδικα
+τους δημιουργούς των οποίων θα θέλαμε , θερμά, να ευχαριστήσουμε
+που μοιράστηκαν μαζί μας το έργο τους  και για τον πολύτιμο χρόνο τους
+
+
+https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/
+
+https://pimylifeup.com/raspberry-pi-mosquitto-mqtt-server/
+
+https://nodered.org/docs/getting-started/raspberrypi
+
+https://circuitdigest.com/microcontroller-projects/social-distancing-detector-using-opencv-and-raspberry-pi
+
+https://github.com/aibenStunner/social-distancing-detector
+
+https://github.com/augmentedstartups/YOLOv4-Tutorials
+
+https://cgomesu.com/blog/Esp32cam-tasmota-webcam-server/
+
+https://templates.blakadder.com/ai-thinker_ESP32-CAM.html
+
+https://tasmota.github.io/docs/Tasmota-IR/
+
+https://tasmota.github.io/docs/Rules/
+
+https://templates.blakadder.com/ytf_ir_bridge.html
+
+https://tasmota.github.io/docs/IR-Remote/
+
+
+---
 
 ![Εποπτικό Διαγραμμα του Συστήματος](images/ELLAK-1-DEVICES.jpg)
 
