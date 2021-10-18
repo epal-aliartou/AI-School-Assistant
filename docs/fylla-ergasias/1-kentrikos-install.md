@@ -1,35 +1,10 @@
 
-img[src*='Hello there!
 
 <p align="center">
 
   <img src="https://mosquitto.org/images/mosquitto-text-side-28.png">
   This is an image
-
 </p>
-
-Hi!#center'] { 
-    display: block;
-    margin: auto;
-}
-Hello there !
-
-<div id="container">
-    <img src="https://mosquitto.org/images/mosquitto-text-side-28.png">
-    This is an image
-</div>
-
-Hi !
-
-#container {
-    height:100px;
-    line-height:100px;
-}
-
-#container img {
-    vertical-align:middle;
-    max-height:100%;
-}
 
 <!-- title only -->
 <h1 align="center"> ΣΧΟΛΕΙΟ :  ΕΣΠΕΡΙΝΟ ΕΠΑΛ ΑΛΙΑΡΤΟΥ </h1>
