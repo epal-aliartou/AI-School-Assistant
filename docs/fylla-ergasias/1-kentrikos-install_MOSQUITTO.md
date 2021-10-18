@@ -57,7 +57,8 @@ https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-
 ```
 
 
-4. Δίνοντας την παρακάτω εντολή ποιο έινια το μήνυμα και ποιο το θέμα (topic)
+4. Δίνοντας την παρακάτω εντολή ποιο έινια το μήνυμα και ποιο το θέμα (topic);
+
 ```
 pi@raspberry:~ $ mosquitto_pub -d -t AAA -m BBB"
 ```
