@@ -63,7 +63,7 @@ Aνοίγουμε ένα φυλλομετρητή της αρεσκείας μα
 
 Τέλος,  χρησιμοποιώντας το περιβάλλον  για debug  του node red,   εισάγουμε τον  τρίτο κόμβο,  ο οποίος είναι υπεύθυνος για να μας δείχνει πληροφορίες στο debug window του nodered
 
-[MQTT-command-from-KENTRIKO](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/images/2-MQTT-command-from-KENTRIKO-NodeRED.png)
+![MQTT-command-from-KENTRIKO](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/images/2-MQTT-command-from-KENTRIKO-NodeRED.png)
 
 ---
 
@@ -76,7 +76,7 @@ Aνοίγουμε ένα φυλλομετρητή της αρεσκείας μα
 
 Στην δεύτερρη  καρτέλα του node-red, έχουμε φτιάξει μια Ρόη (flow)  που ασχολείται με την αποστολή, ανάλογα με τον **χρονοπρογραματισμό**  που επιλέξουμε από τον  κεντρικό προς τους τοπικούς σταθμούς των τάξεων ή προς συγκεκριμμένες συσκευές.  Η συγκεκριμένη υλοποίηση είναι ενδεικτική, και φυσικά μπορεί να επεκταθεί με τον ίδιο μηχανισμό και σε οποιοδήποτε αριθμό αιθουσών,εντολών και τοπικών σταθμών καθώς  και με ευρύτερο  προγραμματιζόμμενη.
 
-[projector-timer](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/images/1-projector-timer-Node-RED-KENTRIKO-.png)
+![projector-timer](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/images/1-projector-timer-Node-RED-KENTRIKO-.png)
 
 Τα πιο σημαντικά στοιχεία (κόμβοι -nodes) φαίνονται  την εικόνα και περιγράφονται παρακάτω
 
@@ -92,7 +92,6 @@ Aνοίγουμε ένα φυλλομετρητή της αρεσκείας μα
 
 6.Τέλος,  επιδεικνύουμε και την θέση του **μενού** μέσω του οποίου μπορούν να γίνουν ενέργειες όπως και η **εισαγωγή ή  εξαγωγή κώδικα** την οποία δείξαμε προηγουμένως 
 
-6-WEBui-Node-RED-KENTRIKO.png
 
 ---
 
@@ -107,4 +106,4 @@ Aνοίγουμε ένα φυλλομετρητή της αρεσκείας μα
 
 Πιο συγκεκριμένα,  το web interface της ενδεικτικής αυτής εφαρμογής φαίνονται παρακάτω
 
-[6-WEBui-Node-RED-KENTRIKO.png](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/images/6-WEBui-Node-RED-KENTRIKO.png)
+![6-WEBui-Node-RED-KENTRIKO.png](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/images/6-WEBui-Node-RED-KENTRIKO.png)
