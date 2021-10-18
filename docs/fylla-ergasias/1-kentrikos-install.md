@@ -8,7 +8,9 @@
 <span align="center"> <h1> :star:   ΘΕΜΑ: Εγκατάσταση   MOSQUITTO σε Raspberry pi</h1> </span> 
 
 
- 
+
+
+ <div align="center"> ![MQTT](https://mosquitto.org/images/mosquitto-text-side-28.png) </div>
  
 ### ΑΣΚΗΣΕΙΣ
  
