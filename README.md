@@ -94,7 +94,7 @@ https://www.youtube.com/watch?v=hZ1zi9_eIq8&list=PL3BpHR7KN3z1dGxGGSAkyuGgAHgk08
 [4-Συνδεσμολόγηση πομποδέκτη υπερύθρων και σύνδεση με WMOS D1 mini ESP8266](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/docs/fylla-ergasias/1-hardware-connections.md
 )
 
-<p align="center"><img width=50 height=50 src="https://user-images.githubusercontent.com/5904370/68167905-820b3e00-ff67-11e9-978f-d7108a179353.png"></p>
+<p align="center"><img width=300 height=300 src="https://user-images.githubusercontent.com/5904370/68167905-820b3e00-ff67-11e9-978f-d7108a179353.png"></p>
 
 ---
 # ΠΗΓΕΣ
