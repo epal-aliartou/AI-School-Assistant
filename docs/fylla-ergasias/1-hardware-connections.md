@@ -6,14 +6,14 @@
 
 <div align="center"> <h1> :star:   ΘΕΜΑ: Συνδεσμολογία πομποδέκτη υπερύθρων </h1>  </div>
 
-<p align="center"><img width=300 height=200 src="https://1.bp.blogspot.com/-H6KzfWzBnl8/XIQRY19noEI/AAAAAAABjvg/UyPF9Tc3gPkW2X8pP2MfA38nGonQxEwegCLcBGAs/s1600/ir.png"></p>
+<p align="center"><img width=300 height=200 src="https://tasmota.github.io/docs/_media/irremote-sheme.jpg"></p>
 
 ## ΗΜΕΡΟΜΗΝΙΑ :
 
 ---
 <p align="center"><img width=400 height=300 src="https://user-images.githubusercontent.com/5904370/68167905-820b3e00-ff67-11e9-978f-d7108a179353.png"></p>
 
-<p align="center"><img width=400 height=300 src="https://user-images.githubusercontent.com/5904370/68167905-820b3e00-ff67-11e9-978f-d7108a179353.png"></p>
+<p align="center"><img width=400 height=300 src="https://1.bp.blogspot.com/-H6KzfWzBnl8/XIQRY19noEI/AAAAAAABjvg/UyPF9Tc3gPkW2X8pP2MfA38nGonQxEwegCLcBGAs/s1600/ir.png"></p>
 
 
 
