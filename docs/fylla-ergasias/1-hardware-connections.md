@@ -6,12 +6,10 @@
 
 <div align="center"> <h1> :star:   ΘΕΜΑ: Συνδεσμολογία πομποδέκτη υπερύθρων </h1>  </div>
 
-<p align="center"><img width=300 height=200 src="https://tasmota.github.io/docs/_media/irremote-sheme.jpg"></p>
 
 ## ΗΜΕΡΟΜΗΝΙΑ :
 
 ---
-<p align="center"><img width=400 height=300 src="https://user-images.githubusercontent.com/5904370/68167905-820b3e00-ff67-11e9-978f-d7108a179353.png"></p>
 
 
 
@@ -25,20 +23,27 @@
 
 <p align="center"><img width=500 height=380 src="https://1.bp.blogspot.com/-H6KzfWzBnl8/XIQRY19noEI/AAAAAAABjvg/UyPF9Tc3gPkW2X8pP2MfA38nGonQxEwegCLcBGAs/s1600/ir.png"></p>
 
+Συμπληρώστε :
 
 ```
-Συμπληρώστε IP =
+MΜοντέλο IR LED =
+
+
+Μοντέλο Δέκτη =
+
+
+Τιμή Αντίστασης =
+
 ```
 
 
-2. Ακολουθώντας τις οδηγίες που φαίνονται στον παρακάτω σύνδεσμο, εγκαταστήστε MQTT broker MOSQUITTO 
+2. Αφού τροφοδοτήσετε το  WEMOS D1 mini ESP8266 επαληθεύστε ότι έχει συνδεθει στο Wifi.
 
-https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-A-Rpi4-CONFIG/1-Installing-Mosquitto-to-Raspberry-KENTRIKOS.md
+
+Συμπληρώστε :
 
 ```
-Κυκλώστε                ΕΠΙΤΥΧΙΑ                        ΑΠΟΤΥΧΙΑ 
-
-
+ΙΡ= 
 
 Ποιό ήταν το τελευταίο μήνυμα στην κονσόλα >
 
@@ -47,29 +52,42 @@ https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/1-Node-Type-
 
 
 
-3. Πειραματιστείτε με τους εγκατεστημένους  clients,  δημιουργώντας το θέμα (topic) "school/ informatics" και στέλνοντας μήνυμα, μέσω του publisher,  "Καλημέρα ΕΠΑΛ".
+3. Ελέγξτε στο Web Interface της Tasmota αν η παρακάτω σύνδεση είναι εφικτή
 
-Γράψτε τις εντολές  που δώσατε
-```
-
-
-
-
-
-
-
-
+<p align="center"><img width=400 height=300 src="https://user-images.githubusercontent.com/5904370/68167905-820b3e00-ff67-11e9-978f-d7108a179353.png"></p>
 
 
 ```
 
-
-4. Δίνοντας την παρακάτω εντολή ποιο έινια το μήνυμα και ποιο το θέμα (topic)
-```
-pi@raspberry:~ $ mosquitto_pub -d -t AAA -m BBB"
-```
-```
-Συμπληρώστε:  μήνυμα=              θέμα=
-```
+Κυκλώστε ανάλογα :         ΝΑΙ            ΟΧΙ
 
 
+
+
+
+
+
+
+```
+4. Πατήστε στο τηλεκοντρόλ τα πληκτρα 1,2,3,4. Παρατηρείστε στο  Web Interface της Tasmota τους κωδικούς.
+
+```
+
+Κωδικός Πλήκτρου 1 = 
+
+Κωδικός Πλήκτρου 2 = 
+
+Κωδικός Πλήκτρου 3 = 
+
+Κωδικός Πλήκτρου 4 = 
+
+
+
+
+
+
+
+
+
+
+```
