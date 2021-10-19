@@ -88,6 +88,8 @@ https://www.youtube.com/watch?v=hZ1zi9_eIq8&list=PL3BpHR7KN3z1dGxGGSAkyuGgAHgk08
 
 [2-Εγκατάσταση NODERED σε Raspberry pi](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/docs/fylla-ergasias/1-kentrikos-install_NODERED.md)
 
+[2-Εγκατάσταση TASMOTA σε ESP32-CAM](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/docs/fylla-ergasias/1-kentrikos-install_TASMOTA.md
+)
 
 ---
 # ΠΗΓΕΣ
