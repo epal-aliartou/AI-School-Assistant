@@ -6,7 +6,7 @@
 
 <div align="center"> <h1> :star:   ΘΕΜΑ: Συνδεσμολογία πομποδέκτη υπερύθρων </h1>  </div>
 
-<p align="center"><img width=500 height=380 src="https://tasmota.github.io/docs/_media/irremote-sheme.jpg"></p>
+<p align="center"><img width=300 height=240 src="https://tasmota.github.io/docs/_media/irremote-sheme.jpg"></p>
 
 ## ΗΜΕΡΟΜΗΝΙΑ :
 
