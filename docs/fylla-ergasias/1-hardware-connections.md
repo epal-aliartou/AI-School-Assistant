@@ -13,7 +13,6 @@
 ---
 <p align="center"><img width=400 height=300 src="https://user-images.githubusercontent.com/5904370/68167905-820b3e00-ff67-11e9-978f-d7108a179353.png"></p>
 
-<p align="center"><img width=500 height=380 src="https://1.bp.blogspot.com/-H6KzfWzBnl8/XIQRY19noEI/AAAAAAABjvg/UyPF9Tc3gPkW2X8pP2MfA38nGonQxEwegCLcBGAs/s1600/ir.png"></p>
 
 
 
@@ -22,7 +21,9 @@
 ### ΑΣΚΗΣΕΙΣ
  
 
-  1. Χρησιμοποιώντας το Advanced IP scanner, βρείτε την ip διεύθυνση του Raspberry, στον οποίο θα εγκαταστήσουμε το software του κεντρικού σταθμού του "αυτόματου σχολικού βοηθού"
+  1. Φτιάξτε την παρακάτω συνδεσμολογία του πομποδέκτη υπερύθρων στο breadboard
+
+<p align="center"><img width=500 height=380 src="https://1.bp.blogspot.com/-H6KzfWzBnl8/XIQRY19noEI/AAAAAAABjvg/UyPF9Tc3gPkW2X8pP2MfA38nGonQxEwegCLcBGAs/s1600/ir.png"></p>
 
 
 ```
