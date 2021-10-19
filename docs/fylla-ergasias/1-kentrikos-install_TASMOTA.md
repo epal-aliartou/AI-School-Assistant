@@ -15,13 +15,15 @@
 
 ### ΑΣΚΗΣΕΙΣ
  
-1. Ακολουθώντας τις οδηγίες που φαίνονται στον παρακάτω σύνδεσμο, εγκαταστήστε το TASMOTA στο ESP32-CAM
+1. Ακολουθώντας τις οδηγίες που φαίνονται στον παρακάτω σύνδεσμο,
 
 https://github.com/epal-aliartou/AI-School-Assistant/blob/main/code/3-Node-Type-C-ESP32-CAM-CONFIG/7-installing-config-on-Node-Type-C-ESP32-CAM.md
 
 και παρακολουθώντας το παρακάτω βίντεο
 
 [![Watch the video](/images/1-firmware-Tasmota.png)](https://youtu.be/TXi_Rk6sHGg)
+
+ εγκαταστήστε το TASMOTA στο ESP32-CAM. Απαντείστε στα παρακάτω:
 
 
 ```
