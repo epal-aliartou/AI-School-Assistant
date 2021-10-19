@@ -91,11 +91,10 @@ https://www.youtube.com/watch?v=hZ1zi9_eIq8&list=PL3BpHR7KN3z1dGxGGSAkyuGgAHgk08
 [3-Εγκατάσταση TASMOTA σε ESP32-CAM](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/docs/fylla-ergasias/1-kentrikos-install_TASMOTA.md
 )
 
+[4-Συνδεσμολόγηση πομποδέκτη υπερύθρων και σύνδεση με WMOS D1 mini ESP8266](https://github.com/epal-aliartou/AI-School-Assistant/blob/main/docs/fylla-ergasias/1-hardware-connections.md
+)
 
-| Italic             |  Block letters |
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/5904370/68167905-820b3e00-ff67-11e9-978f-d7108a179353.png)  |  ![](outputs/output_Biotouch/18-15_02-02-2018/Identification/BLOCK_LETTERS/BLOCK_LETTERS_movementPoints_cmc.pnghttps://user-images.githubusercontent.com/10174704/65613117-bb8a7a00-dfb5-11e9-8ec7-9b6b37c0f31c.png)
-![](https://1.bp.blogspot.com/-H6KzfWzBnl8/XIQRY19noEI/AAAAAAABjvg/UyPF9Tc3gPkW2X8pP2MfA38nGonQxEwegCLcBGAs/s1600/ir.png)  
+<p align="center"><img src="https://user-images.githubusercontent.com/5904370/68167905-820b3e00-ff67-11e9-978f-d7108a179353.png"></p>
 
 ---
 # ΠΗΓΕΣ
